@@ -1,0 +1,10 @@
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\bin\Debug\Module2BaiSo7_NguyenThanhTung.exe.config
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\bin\Debug\Module2BaiSo7_NguyenThanhTung.exe
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\bin\Debug\Module2BaiSo7_NguyenThanhTung.pdb
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\obj\Debug\Module2BaiSo7_NguyenThanhTung.csproj.AssemblyReference.cache
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\obj\Debug\Module2BaiSo7_NguyenThanhTung.frmLight.resources
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\obj\Debug\Module2BaiSo7_NguyenThanhTung.Properties.Resources.resources
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\obj\Debug\Module2BaiSo7_NguyenThanhTung.csproj.GenerateResource.cache
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\obj\Debug\Module2BaiSo7_NguyenThanhTung.csproj.CoreCompileInputs.cache
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\obj\Debug\Module2BaiSo7_NguyenThanhTung.exe
+C:\Users\Tung\source\repos\DESKTOP-MODULE2\33241024064_NguyenThanhTung\Tuan2\Module2BaiSo7_NguyenThanhTung\obj\Debug\Module2BaiSo7_NguyenThanhTung.pdb
